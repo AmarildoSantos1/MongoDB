@@ -6,8 +6,9 @@ Código em Java com uso de XML, em que conecta com banco de dados no MongoDB
 
 O código está hospedado em , "localhost:27017" na classe "App.java" na linha 23;
 
-Para alterar o banco de dados é em "POM.XML" na linha 28 em diante : https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver/3.12.14 , o código usado para conexão foi:
+Para alterar o banco de dados é em "POM.XML" na linha 28 em diante : https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver/3.12.14  
 
+o código usado para conexão foi:
 
 <!-- https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver -->
 <dependency>
